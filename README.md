@@ -84,7 +84,8 @@ X login has "admin" as 1000 and the password
 is temPass as usual.
 
 If you want a custom 1000, then add it into the db
-using the script as user id 2. 
+using the script as user id 2. with the file 
+cservice.addme.sql located at /gnuworld/doc/
 
 ------------------------------------------
 Bugs?: You will tell us :)
